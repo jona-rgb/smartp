@@ -45,7 +45,7 @@ public class Activity_2 extends AppCompatActivity implements NavigationView.OnNa
     Dialog mydialog;
     Button ja;
     Button nein;
-    TextView sicher;
+    TextView sicher1;
 
 
     public static final String SHARED_PREFS = "sharedPrefs";
