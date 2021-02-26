@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/plus"
+            android:title="add"
+            android:icon="@drawable/plus"/>
+
+    </group>
+
+    <group android:checkableBehavior="single"
+            android:id="@+id/applikationen">
+        <item
+            android:title="Apps">
+
+            <menu>
+                <item
+                    android:id="@+id/spotify"
+                    android:title="@string/spotify" />
+                <item
+                    android:id="@+id/google"
+                    android:title="@string/google" />
+                <item
+                    android:id="@+id/premiumsim"
+                    android:title="@string/premium_sim" />
+            </menu>
+        </item>
+    </group>
+
+</menu>

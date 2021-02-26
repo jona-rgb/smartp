@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SafeP</string>
+    <string name="navigation_open">Open navigation drawer</string>
+    <string name="navigation_close">Close navigation drawer</string>
+    <string name="spotify">Spotify</string>
+    <string name="google">Google</string>
+    <string name="premium_sim">Premium-SIM</string>
+</resources>
